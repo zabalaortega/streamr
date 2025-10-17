@@ -1,0 +1,12 @@
+<svg
+    class="h-8 w-8 text-accent"
+    fill="none"
+    stroke="#e50914"
+    stroke-width="2"
+    viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <path
+    d="M7 4v16M17 4v16M3 8h4m10 0h4M3 12h18M3 16h4m10 0h4"
+    ></path>
+</svg>
