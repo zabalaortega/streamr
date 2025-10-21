@@ -1,0 +1,16 @@
+.footer {
+    background-color: rgba(27, 27, 47, 0.2);
+    border-top: 1px solid #1b1b2f;
+    &-container {
+        max-width: 1536px;
+        text-align: center;
+        padding: 32px;
+        margin: 0 auto;
+    }
+    &-text {
+        color: #a0a0a0;
+        font-size: 14px;
+        line-height: 20px;
+        margin: 0;
+    }
+}
